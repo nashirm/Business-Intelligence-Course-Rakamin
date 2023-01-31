@@ -15,3 +15,7 @@ I learned more about:
 - Data Aggregation 211
 - Interactive Dashboard for Insight and Business Recommendation
 - Tableau Analytic and Deployment
+
+This is the result of dashboard visualization:
+https://public.tableau.com/app/profile/mnashir/viz/BI1_16747242942100/Dashboard1
+
