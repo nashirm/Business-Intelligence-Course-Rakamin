@@ -8,4 +8,4 @@ on o.customer_id = c.customer_id
 where c.state in ('California', 'Texas', 'Georgia') 
 and date_part('year', o.order_date) = '2016'
 group by 1 
-order by 3 desc
+order by 3 desc;
