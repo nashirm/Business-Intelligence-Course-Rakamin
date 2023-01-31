@@ -11,8 +11,8 @@ I learned more about:
 - Complex Queries
 - Introduction to Tableau and Data Visualization
 - Analyzing Data with SQL and Tableau
-- Data Aggregation 210
-- Data Aggregation 211
+- Data Aggregation 1
+- Data Aggregation 2
 - Interactive Dashboard for Insight and Business Recommendation
 - Tableau Analytic and Deployment
 
